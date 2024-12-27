@@ -1,0 +1,58 @@
+.container-maior{
+    background-color: #e0c28e;
+    width: 900px;
+    height: 500px;
+    margin-left: 400px;
+    margin-top: 200px;
+    padding-top: 1px;
+    border-radius: 36px;
+}
+
+.titulo {
+    background-color: #e38346;
+    width: 700px;
+    height: 100px;
+    margin-left: 90px;
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 36px;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-size: 48px;
+    padding-top: 20px;  
+}
+
+.conteudo {
+    text-align: center;
+    margin-top: 150px;
+}
+
+a {
+    background-color: #ee7e4c;
+    padding: 15px;
+    border-radius: 50%;
+    text-decoration: none;
+    color: white;
+    font-size: 40px;
+}
+
+.termo, .sobre, .contato{
+    background-color: #e38346;
+    width: 700px;
+    height: 100px;
+    margin-left: 90px;
+    margin-top: 50px;
+    padding-top: ;
+    text-align: center;
+    border-radius: 36px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 34px;
+    line-height: 50px;
+}
+
